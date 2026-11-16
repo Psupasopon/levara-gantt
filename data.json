@@ -1,0 +1,378 @@
+{
+ "exportedAt": "2026-11-16T16:05:00.218Z",
+ "tasks": [
+  {
+   "id": "0123zgsz8tdpk9gkh4vi",
+   "name": "งานก่อฉาบผนัง 5th floor",
+   "project": "apartment",
+   "sub": "f56",
+   "code": "",
+   "owner": "Build to ME - K.Wut",
+   "status": "doing",
+   "start": "2026-10-20",
+   "end": "2026-11-21",
+   "progress": 90,
+   "note": "",
+   "links": [
+    "https://drive.google.com/drive/folders/1O4dRkkSaGYbp4roKssrVKh2lbUvSnOJE?usp=share_link"
+   ],
+   "createdAt": 1794813573742
+  },
+  {
+   "id": "0j4jnj39g6gcl83ftkl5",
+   "name": "เสริมโครงสร้างตู้เซฟ",
+   "project": "apartment",
+   "sub": "f56",
+   "code": "",
+   "owner": "Booklin Solution - K.Pee",
+   "status": "doing",
+   "start": "2026-10-26",
+   "end": "2026-11-21",
+   "progress": 90,
+   "note": "",
+   "links": [
+    "https://drive.google.com/drive/folders/1ARgHvjSpliCmKkdyKeoz4kW9Kr-AMFrS?usp=share_link"
+   ],
+   "createdAt": 1794812435900
+  },
+  {
+   "id": "3148wnnkeu05wtmixylz",
+   "name": "งานก่อฉาบผนัง 6th Floor",
+   "project": "apartment",
+   "sub": "f56",
+   "code": "",
+   "owner": "Build to ME - K.Wut",
+   "status": "doing",
+   "start": "2026-11-15",
+   "end": "2026-11-30",
+   "progress": 5,
+   "note": "QT not yet signed",
+   "links": [
+    "https://drive.google.com/drive/folders/1hRK9zJwYA9BjVFzeQr3Kh46yvlrx5xoO?usp=share_link"
+   ],
+   "createdAt": 1794813645439
+  },
+  {
+   "id": "4fm1c7rb3avbtyxw0a2z",
+   "name": "End Close ปีนผาบ้าน 1",
+   "project": "capy",
+   "sub": "",
+   "code": "CLB-01",
+   "owner": "Booklin Solution",
+   "status": "doing",
+   "start": "2026-11-17",
+   "end": "2026-11-23",
+   "progress": 0,
+   "note": "รอคุณไนล์เซนต์ QT และทำจ่ายงวดแรก",
+   "links": [],
+   "createdAt": 1794812496352
+  },
+  {
+   "id": "4jxps4r3oe40vfy61df1",
+   "name": "แบบงานระบบสุขาภิบาล",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Rome",
+   "status": "doing",
+   "start": "2026-08-03",
+   "end": "2026-11-30",
+   "progress": 80,
+   "note": "",
+   "links": [],
+   "createdAt": 1794842379218
+  },
+  {
+   "id": "513wgop4n1k41hmhx53n",
+   "name": "บันไดหนีไฟ",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Booklin Solution - K.Pee",
+   "status": "doing",
+   "start": "2026-11-01",
+   "end": "2026-11-21",
+   "progress": 75,
+   "note": "",
+   "links": [
+    "https://drive.google.com/drive/folders/1ARgHvjSpliCmKkdyKeoz4kW9Kr-AMFrS?usp=share_link"
+   ],
+   "createdAt": 1794812325392
+  },
+  {
+   "id": "6ej1jgg20bxwnqm58lxf",
+   "name": "เดินระบบไฟซาวน่า",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "ช่างหนึ่ง ภพทวี",
+   "status": "doing",
+   "start": "2026-11-09",
+   "end": "2026-12-19",
+   "progress": 40,
+   "note": "เข้าอีกทีหลังงานเดินไฟ 3 เฟสเสร็จสิ้น",
+   "links": [
+    "https://drive.google.com/drive/folders/1PisrKfh_pneLbVk7XGq8ZYVFbc2wjtTy?usp=share_link"
+   ],
+   "createdAt": 1794813326158
+  },
+  {
+   "id": "84wsrvump3ugbqrkg22p",
+   "name": "แบบ Architect",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Rome",
+   "status": "done",
+   "start": "2026-08-03",
+   "end": "2026-08-24",
+   "progress": 100,
+   "note": "",
+   "links": [
+    "https://drive.google.com/drive/u/4/folders/1dB82Y1w504jZpxNRSSQ905JtMRM8IfzG"
+   ],
+   "createdAt": 1794842023687
+  },
+  {
+   "id": "9tie3f1e0tus34t02r1y",
+   "name": "ซ่อมแซมโครงสร้าง",
+   "project": "apartment",
+   "sub": "f56",
+   "code": "",
+   "owner": "Booklin Solution - K.Pee",
+   "status": "doing",
+   "start": "2026-10-01",
+   "end": "2026-12-19",
+   "progress": 60,
+   "note": "ติดเรื่องการรื้อถอนของทีม Facade - TTT Infinite บริเวณชั้น 7",
+   "links": [
+    "https://drive.google.com/drive/folders/1ARgHvjSpliCmKkdyKeoz4kW9Kr-AMFrS?usp=share_link"
+   ],
+   "createdAt": 1794812387817
+  },
+  {
+   "id": "avrkxbka1x09rm6aitk8",
+   "name": "แบบ งานระบบไฟฟ้าและสื่อสาร",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Rome",
+   "status": "doing",
+   "start": "2026-08-03",
+   "end": "2026-11-30",
+   "progress": 80,
+   "note": "รอสรุปข้อมูลโหลดไฟฟ้าและระบบ Home Automation",
+   "links": [],
+   "createdAt": 1794842244554
+  },
+  {
+   "id": "bjme24fqsw8cgdpzva69",
+   "name": "งานรื้อถอนระบบท่อประปา",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Build to ME - K.Wut",
+   "status": "doing",
+   "start": "2026-11-07",
+   "end": "2026-11-23",
+   "progress": 50,
+   "note": "ระยะดำเนินการ 2 สัปดาห์ - support เหล็กกัลวาไนท์ใช้เวลาชุบนานกว่ากำหนด",
+   "links": [
+    "https://drive.google.com/drive/folders/1PY6zQQbiw8IFu4O90y8_GJtVWKIu7e1x?usp=share_link"
+   ],
+   "createdAt": 1794813846255
+  },
+  {
+   "id": "ffxizw5i2sjkhq3d1r40",
+   "name": "แบบ Interior ชั้น 7 และสระว่ายน้ำ",
+   "project": "apartment",
+   "sub": "f7",
+   "code": "",
+   "owner": "K.Tong",
+   "status": "doing",
+   "start": "2026-08-24",
+   "end": "2026-11-30",
+   "progress": 80,
+   "note": "รอ feedback จาก owner อีกรอบ มีส่งแบบเบื้องต้นให้ K.Tewin เสนอราคามาแล้ว",
+   "links": [],
+   "createdAt": 1794842528742
+  },
+  {
+   "id": "h2x4j00ltghnjm9ue3pu",
+   "name": "ออกแบบโครงสร้าง",
+   "project": "capy",
+   "sub": "",
+   "code": "CLB-01",
+   "owner": "Bosco - K.Ball",
+   "status": "todo",
+   "start": "2026-11-23",
+   "end": "2026-12-31",
+   "progress": 0,
+   "note": "รอเซนต์สัญญาและเริ่มงาน",
+   "links": [],
+   "createdAt": 1794815918658
+  },
+  {
+   "id": "h7sqhvfu50ouvpvwjcm7",
+   "name": "แบบ Interior ชั้น 3-4",
+   "project": "apartment",
+   "sub": "f34",
+   "code": "",
+   "owner": "K.Tong",
+   "status": "doing",
+   "start": "2026-08-03",
+   "end": "2026-12-31",
+   "progress": 60,
+   "note": "wait for Nile to confirm",
+   "links": [],
+   "createdAt": 1794842296326
+  },
+  {
+   "id": "jcnlifg5j7pv83yu8nco",
+   "name": "แบบระบบงานปรับอากาศและระบายอากาศ",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "K&J - K.Jaras",
+   "status": "doing",
+   "start": "2026-08-03",
+   "end": "2026-11-30",
+   "progress": 80,
+   "note": "คุณจรัสส่งแบบชั้น 5-6 เข้ามาแล้ว รอแบบของ 3-4",
+   "links": [],
+   "createdAt": 1794842459155
+  },
+  {
+   "id": "jlcmz2vna7vt5wmqpl03",
+   "name": "แบบ Structure แก้ไขโครงสร้างชั้น 3-6",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Bosco - K.Ball",
+   "status": "done",
+   "start": "2026-08-03",
+   "end": "2026-08-24",
+   "progress": 100,
+   "note": "",
+   "links": [
+    "https://drive.google.com/drive/folders/1K2rbPtHwOUMFp8gFiEdIwUJLTSthOOn6?usp=drive_link"
+   ],
+   "createdAt": 1794842070860
+  },
+  {
+   "id": "l6ogt7mzibylpfab2zzl",
+   "name": "งานหน้าต่าง-ประตูอลูมิเนียม",
+   "project": "apartment",
+   "sub": "f56",
+   "code": "",
+   "owner": "GlassLine",
+   "status": "todo",
+   "start": "2026-12-15",
+   "end": "2026-12-15",
+   "progress": 0,
+   "note": "รอเซ็นสัญญา",
+   "links": [],
+   "createdAt": 1794843313536
+  },
+  {
+   "id": "mbsf7t2zki2cb4ujzd0a",
+   "name": "งานตกแต่งภายใน",
+   "project": "apartment",
+   "sub": "f56",
+   "code": "",
+   "owner": "Silom Furniture",
+   "status": "doing",
+   "start": "2026-05-05",
+   "end": "2027-10-01",
+   "progress": 40,
+   "note": "",
+   "links": [],
+   "createdAt": 1794844140492
+  },
+  {
+   "id": "orxtmzc4r6v29c150lkh",
+   "name": "งานที่ 1-3 ปิดพื้นที่ดาดฟ้าบ้าน",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "Proclimber - K.Tom",
+   "status": "doing",
+   "start": "2026-11-01",
+   "end": "2026-12-20",
+   "progress": 70,
+   "note": "งานที่ 1-3 งานกั้นผนังด้านข้าง ติดตั้งโครงเหล็ก ปิดพื้นที่ชั้น 3",
+   "links": [
+    "https://drive.google.com/drive/folders/1x16DXCCbcp5sMH2WMnhw3guXTycxFxYZ?usp=share_link"
+   ],
+   "createdAt": 1794813096359
+  },
+  {
+   "id": "q1m43dyym3i7z5sziftk",
+   "name": "งานเดินไฟ 3 เฟส",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "ช่างหนึ่ง ภพทวี",
+   "status": "todo",
+   "start": "2026-11-21",
+   "end": "2026-11-27",
+   "progress": 0,
+   "note": "เราจ่ายแค่ค่าแรง เราซื้อของเอง",
+   "links": [
+    "https://drive.google.com/drive/folders/10qGQn-QdRby5YSCGJYQykZydFIMwHyRg?usp=share_link"
+   ],
+   "createdAt": 1794813427239
+  },
+  {
+   "id": "stxmhk27fajg9hk2vfid",
+   "name": "งานกั้นผนังเพิ่มเติม",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "Proclimber - K.Tom",
+   "status": "doing",
+   "start": "2026-11-01",
+   "end": "2026-11-30",
+   "progress": 30,
+   "note": "งานที่ 4 กั้นเพิ่มเติมจากแบบที่แชมป์ทำมา",
+   "links": [
+    "https://drive.google.com/drive/folders/1EhDTxRJjtVn-lWjn8HD52UiRjvg-oVjp?usp=share_link"
+   ],
+   "createdAt": 1794813139331
+  },
+  {
+   "id": "ztffre13aw1xrhn7t1jz",
+   "name": "รื้อถอน Facade",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "TTT Infinite - K.Top",
+   "status": "doing",
+   "start": "2026-10-19",
+   "end": "2026-11-30",
+   "progress": 10,
+   "note": "มีต้องรื้อถอนแก้ไข และรีเชควันส่งมอบงานอีกครั้ง",
+   "links": [
+    "https://drive.google.com/drive/folders/1p2arF2z1GXR1i2T_Dx72utJTTdOHkQMd?usp=share_link"
+   ],
+   "createdAt": 1794814630952
+  },
+  {
+   "id": "zyftrsu18s1rxjgq1f40",
+   "name": "ระบบแอร์",
+   "project": "apartment",
+   "sub": "f56",
+   "code": "",
+   "owner": "K&J - K.Jaras",
+   "status": "todo",
+   "start": "2026-11-18",
+   "end": "2026-11-30",
+   "progress": 0,
+   "note": "รอคอนเฟิร์มวันสิ้นสุด",
+   "links": [
+    "https://drive.google.com/drive/folders/1ErTUrnYmq95BudvP-mPwN0wWZWcNxEXP?usp=share_link"
+   ],
+   "createdAt": 1794813941636
+  }
+ ]
+}
