@@ -1,20 +1,20 @@
 {
- "exportedAt": "2026-11-17T00:48:54.861Z",
+ "exportedAt": "2026-11-17T15:15:04.213Z",
  "tasks": [
   {
    "id": "0123zgsz8tdpk9gkh4vi",
-   "name": "งานก่อฉาบผนัง 5th floor",
+   "name": "งานก่อฉาบผนังกรอบอาคารและห้องน้ำ",
    "project": "apartment",
    "sub": "f56",
    "code": "",
    "owner": "Build to ME - K.Wut",
    "status": "doing",
    "start": "2026-10-20",
-   "end": "2026-11-21",
-   "progress": 90,
-   "note": "",
+   "end": "2026-12-31",
+   "progress": 50,
+   "note": "เหลืองานบันไดหนีไฟ / ชั้น 6 เริ่มงานก่อผนังแล้ว",
    "links": [
-    "https://drive.google.com/drive/folders/1O4dRkkSaGYbp4roKssrVKh2lbUvSnOJE?usp=share_link"
+    "https://drive.google.com/drive/folders/1Kdb2dSeFTiwnX6HVpA-B2Tt3xv8nbW8k?usp=drive_link"
    ],
    "createdAt": 1794813573742
   },
@@ -36,21 +36,34 @@
    "createdAt": 1794812435900
   },
   {
-   "id": "3148wnnkeu05wtmixylz",
-   "name": "งานก่อฉาบผนัง 6th Floor",
+   "id": "1sr3jwtq5tfeejkgo30m",
+   "name": "จัดหาผู้รับเหมางานประตูหน้าต่าง กระจก อะลูมิเนียม",
    "project": "apartment",
-   "sub": "f56",
+   "sub": "all",
+   "code": "",
+   "owner": "GlassLine",
+   "status": "done",
+   "start": "2026-08-17",
+   "end": "2026-09-21",
+   "progress": 100,
+   "note": "",
+   "links": [],
+   "createdAt": 1794926732039
+  },
+  {
+   "id": "1wkm8mvdk0ci9xdbm4f4",
+   "name": "แบบงานป้องกันและแจ้งเตือนอัคคีภัย",
+   "project": "apartment",
+   "sub": "all",
    "code": "",
    "owner": "Build to ME - K.Wut",
-   "status": "doing",
-   "start": "2026-11-15",
-   "end": "2026-11-30",
-   "progress": 5,
-   "note": "QT not yet signed",
-   "links": [
-    "https://drive.google.com/drive/folders/1hRK9zJwYA9BjVFzeQr3Kh46yvlrx5xoO?usp=share_link"
-   ],
-   "createdAt": 1794813645439
+   "status": "todo",
+   "start": "2026-11-17",
+   "end": "2026-12-31",
+   "progress": 0,
+   "note": "รอคุณวุฒิเสนอและคุยกับทาง Euro เพิ่มเติม",
+   "links": [],
+   "createdAt": 1794887748250
   },
   {
    "id": "4fm1c7rb3avbtyxw0a2z",
@@ -84,20 +97,35 @@
   },
   {
    "id": "513wgop4n1k41hmhx53n",
-   "name": "บันไดหนีไฟ",
+   "name": "งานบันไดหนีไฟนอกอาคาร",
    "project": "apartment",
    "sub": "all",
    "code": "",
    "owner": "Booklin Solution - K.Pee",
    "status": "doing",
-   "start": "2026-11-01",
-   "end": "2026-11-21",
+   "start": "2026-11-17",
+   "end": "2027-01-31",
    "progress": 5,
    "note": "",
    "links": [
     "https://drive.google.com/drive/folders/1ARgHvjSpliCmKkdyKeoz4kW9Kr-AMFrS?usp=share_link"
    ],
    "createdAt": 1794812325392
+  },
+  {
+   "id": "671bkfnwg2n53fz31mhr",
+   "name": "จัดหาผู้รับเหมา งานโครงสร้างพื้น ศสล.",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Booklin Solution - K.Pee",
+   "status": "done",
+   "start": "2026-08-17",
+   "end": "2026-09-21",
+   "progress": 100,
+   "note": "",
+   "links": [],
+   "createdAt": 1794926685091
   },
   {
    "id": "6ej1jgg20bxwnqm58lxf",
@@ -134,21 +162,51 @@
    "createdAt": 1794842023687
   },
   {
+   "id": "8wrim0clua30uu5yyryz",
+   "name": "จัดหาผู้รับเหมางานโครงสร้างเหล็ก ชั้น 3-6",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Booklin Solution - K.Pee",
+   "status": "done",
+   "start": "2026-08-03",
+   "end": "2026-09-21",
+   "progress": 100,
+   "note": "",
+   "links": [],
+   "createdAt": 1794926514336
+  },
+  {
    "id": "9tie3f1e0tus34t02r1y",
-   "name": "ซ่อมแซมโครงสร้าง",
+   "name": "ซ่อมแซมโครงสร้าง 5-6",
    "project": "apartment",
    "sub": "f56",
    "code": "",
    "owner": "Booklin Solution - K.Pee",
    "status": "doing",
    "start": "2026-10-01",
-   "end": "2026-12-19",
-   "progress": 60,
+   "end": "2026-11-30",
+   "progress": 90,
    "note": "ติดเรื่องการรื้อถอนของทีม Facade - TTT Infinite บริเวณชั้น 7",
    "links": [
     "https://drive.google.com/drive/folders/1ARgHvjSpliCmKkdyKeoz4kW9Kr-AMFrS?usp=share_link"
    ],
    "createdAt": 1794812387817
+  },
+  {
+   "id": "aj5sgjlrxmzfutif60je",
+   "name": "งานพื้นโครงสร้าง ศสล.",
+   "project": "apartment",
+   "sub": "f56",
+   "code": "",
+   "owner": "Booklin Solution - K.Pee",
+   "status": "doing",
+   "start": "2026-10-05",
+   "end": "2026-11-30",
+   "progress": 85,
+   "note": "",
+   "links": [],
+   "createdAt": 1794927168632
   },
   {
    "id": "avrkxbka1x09rm6aitk8",
@@ -175,12 +233,42 @@
    "status": "doing",
    "start": "2026-11-07",
    "end": "2026-11-23",
-   "progress": 50,
+   "progress": 30,
    "note": "ระยะดำเนินการ 2 สัปดาห์ - support เหล็กกัลวาไนท์ใช้เวลาชุบนานกว่ากำหนด",
    "links": [
     "https://drive.google.com/drive/folders/1PY6zQQbiw8IFu4O90y8_GJtVWKIu7e1x?usp=share_link"
    ],
    "createdAt": 1794813846255
+  },
+  {
+   "id": "dtlq7ab5j8twxyms1ozr",
+   "name": "Combine แบบทั้งหมด",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "ALL",
+   "status": "doing",
+   "start": "2026-09-01",
+   "end": "2026-12-31",
+   "progress": 80,
+   "note": "",
+   "links": [],
+   "createdAt": 1794926432011
+  },
+  {
+   "id": "fd8t66vzg9lzxljss9f1",
+   "name": "จัดหาผู้รับเหมางาน M&E",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Rome",
+   "status": "todo",
+   "start": "2026-11-01",
+   "end": "2026-11-30",
+   "progress": 0,
+   "note": "ยังไม่เริ่ม รอแบบงานระบบ / ทางพี่วุฒิมีเข้าดำเนินการรื้อและติดตั้งเมนระบบประปา",
+   "links": [],
+   "createdAt": 1794926871722
   },
   {
    "id": "ffxizw5i2sjkhq3d1r40",
@@ -222,8 +310,8 @@
    "status": "doing",
    "start": "2026-08-03",
    "end": "2026-12-31",
-   "progress": 60,
-   "note": "wait for Nile to confirm",
+   "progress": 80,
+   "note": "wait for Nile to confirm - เหลืองานระบบ จะทะยอยส่งงานเป็นพาร์ทๆไป",
    "links": [],
    "createdAt": 1794842296326
   },
@@ -260,10 +348,25 @@
    "createdAt": 1794842070860
   },
   {
+   "id": "jue8axhn0dpcnp2iu3qm",
+   "name": "จัดหาผู้รับเหมางานก่ออิฐกรอบอาคารและห้องน้ำ ชั้น 5-6",
+   "project": "apartment",
+   "sub": "f56",
+   "code": "",
+   "owner": "Build to ME - K.Wut",
+   "status": "done",
+   "start": "2026-09-21",
+   "end": "2026-10-20",
+   "progress": 100,
+   "note": "",
+   "links": [],
+   "createdAt": 1794926790325
+  },
+  {
    "id": "l6ogt7mzibylpfab2zzl",
    "name": "งานหน้าต่าง-ประตูอลูมิเนียม",
    "project": "apartment",
-   "sub": "f56",
+   "sub": "all",
    "code": "",
    "owner": "GlassLine",
    "status": "todo",
@@ -275,19 +378,51 @@
    "createdAt": 1794843313536
   },
   {
+   "id": "lklqohhl7320g4onz81f",
+   "name": "งานซ่อมแซมโครงสร้าง 3-4",
+   "project": "apartment",
+   "sub": "f34",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2026-12-01",
+   "end": "2027-02-28",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794927037522
+  },
+  {
    "id": "mbsf7t2zki2cb4ujzd0a",
-   "name": "งานตกแต่งภายใน",
+   "name": "งานตกแต่งภายใน 3-4",
    "project": "apartment",
    "sub": "f56",
    "code": "",
    "owner": "Silom Furniture",
    "status": "doing",
    "start": "2026-05-05",
-   "end": "2027-10-01",
-   "progress": 40,
+   "end": "2027-12-31",
+   "progress": 10,
+   "note": "extended เนื่องจากติดปัญหาเข้าหน้างาน",
+   "links": [
+    "https://drive.google.com/drive/folders/18_TFLDLp-v2S_MC0ipDBEVYOz3GaVCjJ?usp=drive_link"
+   ],
+   "createdAt": 1794844140492
+  },
+  {
+   "id": "n87c43yvighgpu8olirc",
+   "name": "งานซ่อม Aluminium Cladding",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2026-11-02",
+   "end": "2026-12-31",
+   "progress": 0,
    "note": "",
    "links": [],
-   "createdAt": 1794844140492
+   "createdAt": 1794927215831
   },
   {
    "id": "orxtmzc4r6v29c150lkh",
@@ -307,6 +442,21 @@
    "createdAt": 1794813096359
   },
   {
+   "id": "p039tqt9v593g2qpp3oc",
+   "name": "จัดหาผู้รับเหมาเก็บสีโครงสร้างภายใน",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Rome",
+   "status": "doing",
+   "start": "2026-08-17",
+   "end": "2026-11-24",
+   "progress": 80,
+   "note": "",
+   "links": [],
+   "createdAt": 1794926591230
+  },
+  {
    "id": "q1m43dyym3i7z5sziftk",
    "name": "งานเดินไฟ 3 เฟส",
    "project": "capy",
@@ -322,6 +472,21 @@
     "https://drive.google.com/drive/folders/10qGQn-QdRby5YSCGJYQykZydFIMwHyRg?usp=share_link"
    ],
    "createdAt": 1794813427239
+  },
+  {
+   "id": "r92as8annedf91xalspl",
+   "name": "ก่อสร้างงานระบบ M&E หลัก",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2026-11-02",
+   "end": "2027-05-31",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794927587625
   },
   {
    "id": "stxmhk27fajg9hk2vfid",
@@ -341,6 +506,36 @@
    "createdAt": 1794813139331
   },
   {
+   "id": "v3x9r8g56wh46d80ss4i",
+   "name": "จัดหาผู้รับเหมางานซ่อม Aluminum Cladding",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "Booklin Solution - K.Pee",
+   "status": "done",
+   "start": "2026-08-10",
+   "end": "2026-11-09",
+   "progress": 100,
+   "note": "Booklin ไม่รวมงานหุ้ม Alu Cladding",
+   "links": [],
+   "createdAt": 1794927303799
+  },
+  {
+   "id": "vh6ok6ogvy5wgi8mwin4",
+   "name": "ส่งมอบงาน",
+   "project": "apartment",
+   "sub": "all",
+   "code": "",
+   "owner": "ALL",
+   "status": "todo",
+   "start": "2027-08-02",
+   "end": "2027-12-31",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794928459024
+  },
+  {
    "id": "ztffre13aw1xrhn7t1jz",
    "name": "รื้อถอน Facade",
    "project": "apartment",
@@ -349,8 +544,8 @@
    "owner": "TTT Infinite - K.Top",
    "status": "doing",
    "start": "2026-10-19",
-   "end": "2026-11-30",
-   "progress": 10,
+   "end": "2026-12-31",
+   "progress": 25,
    "note": "มีต้องรื้อถอนแก้ไข และรีเชควันส่งมอบงานอีกครั้ง",
    "links": [
     "https://drive.google.com/drive/folders/1p2arF2z1GXR1i2T_Dx72utJTTdOHkQMd?usp=share_link"
@@ -361,14 +556,14 @@
    "id": "zyftrsu18s1rxjgq1f40",
    "name": "ระบบแอร์",
    "project": "apartment",
-   "sub": "f56",
+   "sub": "all",
    "code": "",
    "owner": "K&J - K.Jaras",
-   "status": "todo",
+   "status": "doing",
    "start": "2026-11-18",
-   "end": "2026-11-30",
+   "end": "2027-02-28",
    "progress": 0,
-   "note": "รอคอนเฟิร์มวันสิ้นสุด",
+   "note": "จะเริ่มที่ชั้น 5-6 ก่อน",
    "links": [
     "https://drive.google.com/drive/folders/1ErTUrnYmq95BudvP-mPwN0wWZWcNxEXP?usp=share_link"
    ],
