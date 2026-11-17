@@ -1,5 +1,5 @@
 {
- "exportedAt": "2026-11-16T16:14:04.724Z",
+ "exportedAt": "2026-11-17T00:48:54.861Z",
  "tasks": [
   {
    "id": "0123zgsz8tdpk9gkh4vi",
@@ -92,7 +92,7 @@
    "status": "doing",
    "start": "2026-11-01",
    "end": "2026-11-21",
-   "progress": 75,
+   "progress": 5,
    "note": "",
    "links": [
     "https://drive.google.com/drive/folders/1ARgHvjSpliCmKkdyKeoz4kW9Kr-AMFrS?usp=share_link"
