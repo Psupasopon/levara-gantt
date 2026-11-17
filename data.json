@@ -1,5 +1,5 @@
 {
- "exportedAt": "2026-11-17T15:15:04.213Z",
+ "exportedAt": "2026-11-17T15:43:05.257Z",
  "tasks": [
   {
    "id": "0123zgsz8tdpk9gkh4vi",
@@ -34,6 +34,68 @@
     "https://drive.google.com/drive/folders/1ARgHvjSpliCmKkdyKeoz4kW9Kr-AMFrS?usp=share_link"
    ],
    "createdAt": 1794812435900
+  },
+  {
+   "id": "0s2d3tkgigrvydkvpzks",
+   "name": "งานห้อง climbing ชั้น 1",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "Booklin Solution",
+   "status": "todo",
+   "start": "2026-11-02",
+   "end": "2026-12-31",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929518086
+  },
+  {
+   "id": "10bz2lau1bqnsjea0de0",
+   "name": "แบบงานตกแต่งภายในห้อง Climbing ชั้น 1",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "Champ",
+   "status": "done",
+   "start": "2026-08-03",
+   "end": "2026-08-31",
+   "progress": 100,
+   "note": "",
+   "links": [
+    "https://drive.google.com/drive/mobile/folders/17GCTgGc8CKVWlXeXvT1l-RrF2xM4JlML?usp=drive_link"
+   ],
+   "createdAt": 1794928902273
+  },
+  {
+   "id": "192pc6bh2yky4t5gk1vz",
+   "name": "งานผนังภายนอกบ้าน 1",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2027-01-01",
+   "end": "2027-02-28",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929625589
+  },
+  {
+   "id": "1aq61zilwxzryf2obs1r",
+   "name": "จัดหาผู้รับเหมาหลัก งานระบบ M&E",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2026-11-16",
+   "end": "2026-12-12",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929433129
   },
   {
    "id": "1sr3jwtq5tfeejkgo30m",
@@ -113,6 +175,21 @@
    "createdAt": 1794812325392
   },
   {
+   "id": "5id90s5vxfe8a1fkv0bd",
+   "name": "งาน Landscape",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2027-01-01",
+   "end": "2027-02-28",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929639692
+  },
+  {
    "id": "671bkfnwg2n53fz31mhr",
    "name": "จัดหาผู้รับเหมา งานโครงสร้างพื้น ศสล.",
    "project": "apartment",
@@ -143,6 +220,36 @@
     "https://drive.google.com/drive/folders/1PisrKfh_pneLbVk7XGq8ZYVFbc2wjtTy?usp=share_link"
    ],
    "createdAt": 1794813326158
+  },
+  {
+   "id": "6g46ocyk17vohxe9rz7d",
+   "name": "ส่งมอบงาน",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2027-04-01",
+   "end": "2027-05-31",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929696025
+  },
+  {
+   "id": "70ic87kfc6d5tklplzd2",
+   "name": "แบบงานระบบ M&E",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "Build to ME - K.Wut",
+   "status": "todo",
+   "start": "2026-11-09",
+   "end": "2026-11-30",
+   "progress": 0,
+   "note": "กำลังรวบรวมเพื่อจัดทำแบบ",
+   "links": [],
+   "createdAt": 1794929073461
   },
   {
    "id": "84wsrvump3ugbqrkg22p",
@@ -177,6 +284,36 @@
    "createdAt": 1794926514336
   },
   {
+   "id": "9m7mwwk6xjj9k7f29cjw",
+   "name": "งานตกแต่งภายในชั้น 1-3",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2026-12-01",
+   "end": "2027-03-31",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929564768
+  },
+  {
+   "id": "9pp16fu23jp256prc1mc",
+   "name": "จัดหาผู้รับเหมางานผนังภายนอก",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2026-11-16",
+   "end": "2026-12-31",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929367615
+  },
+  {
    "id": "9tie3f1e0tus34t02r1y",
    "name": "ซ่อมแซมโครงสร้าง 5-6",
    "project": "apartment",
@@ -209,6 +346,21 @@
    "createdAt": 1794927168632
   },
   {
+   "id": "aoi08b9kx5e3xnmnstyp",
+   "name": "จัดหาผู้รับเหมางาน Landscape",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "",
+   "status": "doing",
+   "start": "2026-10-05",
+   "end": "2026-12-31",
+   "progress": 30,
+   "note": "กำลังจัดหาผู้รับเหมา",
+   "links": [],
+   "createdAt": 1794929481252
+  },
+  {
    "id": "avrkxbka1x09rm6aitk8",
    "name": "แบบ งานระบบไฟฟ้าและสื่อสาร",
    "project": "apartment",
@@ -222,6 +374,21 @@
    "note": "รอสรุปข้อมูลโหลดไฟฟ้าและระบบ Home Automation",
    "links": [],
    "createdAt": 1794842244554
+  },
+  {
+   "id": "b3wzl1vmw4ehvo0latte",
+   "name": "งานประตูทางเข้า maingate",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2027-02-01",
+   "end": "2027-03-31",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929669400
   },
   {
    "id": "bjme24fqsw8cgdpzva69",
@@ -239,6 +406,21 @@
     "https://drive.google.com/drive/folders/1PY6zQQbiw8IFu4O90y8_GJtVWKIu7e1x?usp=share_link"
    ],
    "createdAt": 1794813846255
+  },
+  {
+   "id": "dh2bhs3yrppwhv3v6vua",
+   "name": "งานระบบ M&E",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "",
+   "status": "todo",
+   "start": "2026-12-21",
+   "end": "2027-03-31",
+   "progress": 0,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929593229
   },
   {
    "id": "dtlq7ab5j8twxyms1ozr",
@@ -286,6 +468,21 @@
    "createdAt": 1794842528742
   },
   {
+   "id": "gyapww6izi310avu2j3m",
+   "name": "แบบงานประตู Main Gate",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "Champ",
+   "status": "review",
+   "start": "2026-11-02",
+   "end": "2026-11-30",
+   "progress": 80,
+   "note": "ไนล์ดูดีไซน์ประตู และเลือกแบบ แชมป์เชคราคาเทียบ",
+   "links": [],
+   "createdAt": 1794929233813
+  },
+  {
    "id": "h2x4j00ltghnjm9ue3pu",
    "name": "ออกแบบโครงสร้าง",
    "project": "capy",
@@ -314,6 +511,21 @@
    "note": "wait for Nile to confirm - เหลืองานระบบ จะทะยอยส่งงานเป็นพาร์ทๆไป",
    "links": [],
    "createdAt": 1794842296326
+  },
+  {
+   "id": "he3m90cwv4wmdzkrksm6",
+   "name": "แบบขออนุญาตซ่อมอาคาร",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "Champ",
+   "status": "done",
+   "start": "2026-08-03",
+   "end": "2026-08-10",
+   "progress": 100,
+   "note": "",
+   "links": [],
+   "createdAt": 1794928847655
   },
   {
    "id": "jcnlifg5j7pv83yu8nco",
@@ -363,6 +575,21 @@
    "createdAt": 1794926790325
   },
   {
+   "id": "kwuq14swe3oklj1kpm3c",
+   "name": "จัดหาผู้รับเหมางานห้อง climbing ชั้น 1",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "Booklin Solution",
+   "status": "done",
+   "start": "2026-09-01",
+   "end": "2026-09-14",
+   "progress": 100,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929278134
+  },
+  {
    "id": "l6ogt7mzibylpfab2zzl",
    "name": "งานหน้าต่าง-ประตูอลูมิเนียม",
    "project": "apartment",
@@ -370,8 +597,8 @@
    "code": "",
    "owner": "GlassLine",
    "status": "todo",
-   "start": "2026-12-15",
-   "end": "2026-12-15",
+   "start": "2027-01-04",
+   "end": "2027-03-31",
    "progress": 0,
    "note": "รอเซ็นสัญญา",
    "links": [],
@@ -489,6 +716,23 @@
    "createdAt": 1794927587625
   },
   {
+   "id": "s36gg7ootzd02qkzrsv8",
+   "name": "แบบตกแต่งภายในชั้น 1-3 และ Basement บ้าน 1",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "Champ",
+   "status": "done",
+   "start": "2026-10-12",
+   "end": "2026-11-09",
+   "progress": 100,
+   "note": "อยู่ระหว่างรอผู้รับเหมาประกวดราคา",
+   "links": [
+    "https://drive.google.com/file/d/18rAF0FgffZZkN4Hu2GwpMKPdJkprPTH0/view"
+   ],
+   "createdAt": 1794928995990
+  },
+  {
    "id": "stxmhk27fajg9hk2vfid",
    "name": "งานกั้นผนังเพิ่มเติม",
    "project": "capy",
@@ -504,6 +748,21 @@
     "https://drive.google.com/drive/folders/1EhDTxRJjtVn-lWjn8HD52UiRjvg-oVjp?usp=share_link"
    ],
    "createdAt": 1794813139331
+  },
+  {
+   "id": "tmztprvwzh484ya4ji6i",
+   "name": "แบบงาน Landscape",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "Champ",
+   "status": "done",
+   "start": "2026-08-03",
+   "end": "2026-08-10",
+   "progress": 100,
+   "note": "",
+   "links": [],
+   "createdAt": 1794929112369
   },
   {
    "id": "v3x9r8g56wh46d80ss4i",
@@ -542,7 +801,7 @@
    "sub": "all",
    "code": "",
    "owner": "TTT Infinite - K.Top",
-   "status": "doing",
+   "status": "blocked",
    "start": "2026-10-19",
    "end": "2026-12-31",
    "progress": 25,
@@ -551,6 +810,21 @@
     "https://drive.google.com/drive/folders/1p2arF2z1GXR1i2T_Dx72utJTTdOHkQMd?usp=share_link"
    ],
    "createdAt": 1794814630952
+  },
+  {
+   "id": "ztuzn2kpew293g9aqqau",
+   "name": "จัดหาผู้รับเหมาตกแต่งภายใน",
+   "project": "capy",
+   "sub": "",
+   "code": "",
+   "owner": "",
+   "status": "doing",
+   "start": "2026-10-05",
+   "end": "2026-11-30",
+   "progress": 90,
+   "note": "20/11 กำหนดส่งราคา",
+   "links": [],
+   "createdAt": 1794929329622
   },
   {
    "id": "zyftrsu18s1rxjgq1f40",
